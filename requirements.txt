@@ -1,0 +1,40 @@
+# ==========================================================
+# EXPRESSORA TRANSLATION MODULE REQUIREMENTS (STABLE BUILD)
+# ==========================================================
+
+# Core Deep Learning Stack
+torch==2.3.1
+transformers==4.41.2
+sentencepiece==0.2.0
+accelerate==0.31.0
+
+# Dataset & Evaluation
+datasets==2.20.0
+evaluate==0.4.1
+sacrebleu==2.4.0
+rouge-score==0.1.2
+
+# Utilities
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+tqdm==4.66.4
+
+# File and System Helpers
+filelock==3.15.4
+pyarrow==15.0.0
+fsspec==2024.5.0
+
+# Logging / Plotting (Optional)
+colorama==0.4.6
+tabulate==0.9.0
+
+# To avoid GPU driver conflicts
+protobuf==4.25.3
+
+# For tokenizer conversion warnings
+huggingface-hub==0.24.5
+
+# Prevent version mismatch on Colab
+urllib3==2.2.2
+requests==2.32.3

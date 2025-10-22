@@ -1,0 +1,11 @@
+gloss_input,english_input,filipino_output,origin,context_tag
+YOU SICK,You are sick.,May sakit ka.,ASL,neutral
+YESTERDAY I SICK,Yesterday I was sick.,Kahapon may sakit ako.,ASL,time
+DOCTOR I GO,I am going to the doctor.,Pupunta ako sa doktor.,ASL,place
+I GO DOCTOR,I am going to the doctor.,Pupunta ako sa doktor.,ASL,place
+I GO HOSPITAL,I am going to the hospital.,Pupunta ako sa ospital.,ASL,place
+I WANT HOSPITAL,I want to go to the hospital.,Gusto kong pumunta sa ospital.,ASL,action
+I NOT WANT HOSPITAL,I do not want the hospital.,Ayaw ko sa ospital.,ASL,action
+YOU SICK BA,Are you sick?,May sakit ka ba?,FSL,question
+GO HOSPITAL PLEASE,Please go to the hospital.,"Pumunta ka sa ospital, pakiusap.",FSL,imperative
+HELLO DOCTOR,Hello doctor.,Kamusta po doktor.,MIXED,greeting
